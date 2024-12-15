@@ -8,5 +8,7 @@ public class A {
 		B your = new B();
 		your.sayHello("Everyone");
 		System.out.println("My changed in master branch2");
+		C you = new C();
+		you.sayHi("You");
 	}
 }
