@@ -7,5 +7,7 @@ public class A {
 		System.out.println("My changed in master branch");
 		B your = new B();
 		your.sayHello("Everyone");
+		C you = new C();
+		you.sayHi("You");
 	}
 }
